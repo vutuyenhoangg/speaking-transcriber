@@ -1,0 +1,5 @@
+streamlit
+git+https://github.com/openai/whisper.git
+ffmpeg-python
+pandas
+setuptools-rust
